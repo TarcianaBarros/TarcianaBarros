@@ -2,7 +2,7 @@
 - 🤓 Estou estudando programação.
 - 🌱 Atualmente me especializando trabalhando no TCE-PE
 - 📚 Estou em migração de carreira.
-- 📫 Você pode me encontrar em tarcianavbarros@gmail.com
+- 📫 Você pode me encontrar <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tarcianavbarros@gmail.com" /></a> -Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=tarci_vbarros"/></a>
 
 <div>
   <a href="https://github.com/TarcianaBarros">
