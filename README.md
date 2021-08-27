@@ -27,8 +27,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/tarciana-barros-81a8071b7"/>
   </a>
   
- <p align="left">
-  <a href="https://gmail.com/tarcianavbarros@gmail.com" alt="Gmail">
+  <a href="https://gmail.com/tarcianavbarros" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tarcianavbarros@gmail.com" /></a>
   </a>
 </p>  
