@@ -1,6 +1,6 @@
 - Ola, Eu sou a Tarciana Barros.
-- Estou estudando programação.🤓
-- 🌱 Atualmente estou aprendendo Gerência de Configuração.
+- 🤓 Estou estudando programação.
+- 🌱 Atualmente me especializando em Python, Java e Gerência de Configuração.
 - 📚 Estou em migração de carreira.
 - 📫 Você pode me encontrar em tarcianavbarros@gmail.com
 
