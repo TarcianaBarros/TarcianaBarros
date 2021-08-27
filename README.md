@@ -1,6 +1,6 @@
 - Ola, Eu sou a Tarciana Barros.
 - 🤓 Estou estudando programação.
-- 🌱 Atualmente me especializando em Python, Java e Gerência de Configuração.
+- 🌱 Atualmente me especializando trabalhando no TCE-PE
 - 📚 Estou em migração de carreira.
 - 📫 Você pode me encontrar em tarcianavbarros@gmail.com
 
@@ -12,4 +12,5 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css" />
 </div>
