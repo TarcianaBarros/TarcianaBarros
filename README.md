@@ -14,18 +14,23 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
-  <p align="left">
-  💌 Você pode me contactar em: ⤵️
+ <p align="left">
+  💌 Se quiser me contactar, me manda uma mensagem por aqui:
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="https://www.instagram.com/tarci_vbarros/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/tarci_vbarros"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/tarciana-barros-81a8071b7" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/tarciana-barros-81a8071b7"/>
+  </a>
+  
+ <p align="left">
+  <a href="https://gmail.com/tarcianavbarros@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tarcianavbarros@gmail.com" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarciana-barros-81a8071b7/" /></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/tarci_vbarros/?hl=pt-br"/></a>
+  </a>
 </p>  
   
+ 
