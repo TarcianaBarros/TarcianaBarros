@@ -2,6 +2,7 @@
 - 🤓 Estou estudando programação.
 - 🌱 Atualmente me especializando trabalhando no TCE-PE
 - 📚 Estou em migração de carreira.
+- 📩 tarcianavbarros@gmail.com
 
 <div>
   <a href="https://github.com/TarcianaBarros">
