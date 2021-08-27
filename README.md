@@ -14,10 +14,12 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
- <p align="left">
-  💌 Se quiser me contactar, me manda uma mensagem por aqui:
-</p>
 
+ <p align="left">
+  💌 Se quiser falar comigo, me manda uma mensagem.
+ </p>
+
+  
 <p align="left">
   <a href="https://www.instagram.com/tarci_vbarros/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/tarci_vbarros"/>
@@ -26,10 +28,7 @@
   <a href="https://www.linkedin.com/in/tarciana-barros-81a8071b7" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/tarciana-barros-81a8071b7"/>
   </a>
-  
-  <a href="https://gmail.com/tarcianavbarros" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tarcianavbarros@gmail.com" /></a>
-  </a>
+ 
 </p>  
   
  
