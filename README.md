@@ -1,6 +1,6 @@
-- Ola, Eu sou a Tarciana Barros.
+- Ola, eu sou Tarciana Barros.
 - 🤓 Estou estudando programação.
-- 🌱 Atualmente me especializando trabalhando no TCE-PE
+- 🌱 Atualmente trabalhando no TCE-PE
 - 📚 Estou em migração de carreira.
 - 📩 tarcianavbarros@gmail.com
 
