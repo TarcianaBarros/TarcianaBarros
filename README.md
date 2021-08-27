@@ -2,7 +2,6 @@
 - 🤓 Estou estudando programação.
 - 🌱 Atualmente me especializando trabalhando no TCE-PE
 - 📚 Estou em migração de carreira.
-- 📫 Você pode me encontrar <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tarcianavbarros@gmail.com" /></a> -Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=tarci_vbarros"/></a>
 
 <div>
   <a href="https://github.com/TarcianaBarros">
@@ -14,3 +13,19 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
+
+  <p align="left">
+  💌 Você pode me contactar em: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tarcianavbarros@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarciana-barros-81a8071b7/" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/tarci_vbarros/?hl=pt-br"/></a>
+</p>  
+  
