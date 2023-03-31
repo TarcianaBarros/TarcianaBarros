@@ -1,7 +1,6 @@
 - Ola, eu sou Tarciana Barros.
-- 🤓 Estou estudando programação.
-- 🌱 Atualmente trabalhando no TCE-PE
-- 📚 Estou em migração de carreira.
+- 🤓 Software engineering
+- 🌱 Atualmente trabalhando na Liferay Latam.
 - 📩 tarcianavbarros@gmail.com
 
 <div>
